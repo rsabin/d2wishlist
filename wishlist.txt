@@ -32,6 +32,4 @@ dimwishlist:item=1395261499&perks=2261491232,202670084,1561002382,2846385770,346
 //notes:Unica que tem.
 dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467
 
-// Bottom Dollar
-//notes:LegionarioGG (pvp): Arma ótima pra pvp, bom recuo, alcance e saque rápido para trocar rapidamente.
-dimwishlist:item=1046651176&perks=4090651448,2420895100,1168162263,47981717
+
